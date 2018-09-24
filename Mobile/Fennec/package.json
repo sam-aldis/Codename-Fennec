@@ -1,6 +1,6 @@
 {
     "nativescript": {
-        "id": "org.nativescript.Fennec",
+        "id": "com.ukjp-labs.Fennec",
         "tns-android": {
             "version": "4.2.0"
         },
@@ -8,9 +8,9 @@
             "version": "4.2.0"
         }
     },
-    "description": "NativeScript Application",
-    "license": "SEE LICENSE IN <your-license-filename>",
-    "repository": "<fill-your-repository-here>",
+    "description": "The Mobile Client for Fennec",
+    "license": "SEE LICENSE IN license.md",
+    "repository": "https://github.com/sam-aldis/",
     "dependencies": {
         "@angular/animations": "~6.1.0",
         "@angular/common": "~6.1.0",
@@ -29,9 +29,12 @@
         "tns-core-modules": "~4.2.0",
         "zone.js": "^0.8.26"
     },
+    "scripts": {
+        "test" : "tns test"
+    },
     "devDependencies": {
         "typescript": "~2.7.2",
         "nativescript-dev-typescript": "~0.7.0"
     },
-    "readme": "NativeScript Application"
+    "readme": "Mobile Client for Fennec"
 }
