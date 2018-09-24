@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3AB4B445-1EBF-4D11-BF55-9F46C61659E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fennec/MainWindow.cs">
+    <Files>
+      <File FileName="Fennec/Program.cs" Line="12" Column="47" />
+      <File FileName="Fennec/MainWindow.cs" Line="17" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Fennec PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/samaldis/UKJP/Projects/Fennec/Project/Fennec_Desktop/Fennec/bin/Debug/Fennec.exe
+/Users/samaldis/UKJP/Projects/Fennec/Project/Fennec_Desktop/Fennec/bin/Debug/Fennec.pdb
+/Users/samaldis/UKJP/Projects/Fennec/Project/Fennec_Desktop/Fennec/obj/x86/Debug/Fennec.csproj.CoreCompileInputs.cache
+/Users/samaldis/UKJP/Projects/Fennec/Project/Fennec_Desktop/Fennec/obj/x86/Debug/Fennec.exe
+/Users/samaldis/UKJP/Projects/Fennec/Project/Fennec_Desktop/Fennec/obj/x86/Debug/Fennec.pdb
+/Users/samaldis/UKJP/Projects/Fennec/Project/Fennec_Desktop/Fennec/obj/x86/Debug/Fennec.csprojAssemblyReference.cache
