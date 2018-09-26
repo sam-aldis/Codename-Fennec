@@ -20,4 +20,4 @@ jobs:
 
     steps:
       - checkout
-      - run: test.sh
+      - run: ~/repo/test.sh
