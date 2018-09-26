@@ -25,7 +25,7 @@ jobs:
       # run tests!
       - run: cd Mobile/Fennec/
       - run: npm install
-      - run: npm install -g tns
+      - run: npm install tns
       - run: tns test init --framework mocha
       - run: tns test android
       - run: tns test ios
