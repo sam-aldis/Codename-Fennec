@@ -20,10 +20,13 @@ jobs:
 
     steps:
       - checkout
+  test:  
+    docker:
+      - image: circleci/node
+      - image: circleci/android
+    working_directory: ~/repo/Mobile/Fennec
 
-      # Download and cache dependencies
-      # run tests!
-      - run: cd Mobile/Fennec/
+    steps:
       - run: npm install
       - run: npm install tns
       - run: tns test init --framework mocha
