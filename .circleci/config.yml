@@ -16,7 +16,7 @@ jobs:
       # mono for desktop......
       #- image: mono:latest
 
-    working_directory: ~/
+    working_directory: ~/repo
 
     steps:
       - checkout
