@@ -22,15 +22,10 @@ jobs:
       - checkout
 
       # Download and cache dependencies
-      - run: npm install Mobile/Fennec/package.json
-
-      - save_cache:
-          paths:
-            - node_modules
-          key: v1-dependencies-{{ checksum "Mobile/Fennec/package.json" }}
-        
+      - run: npm install Mobile/Fennec/package.json        
       # run tests!
-      - run: npm install Mobile/Fennec/ tns
+      - run: cd Mobile/Fennec/
+      - run: npm install -g tns
       - run: tns test init --framework mocha
       - run: tns test android
       - run: tns test ios
