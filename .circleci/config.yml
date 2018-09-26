@@ -22,9 +22,9 @@ jobs:
       - checkout
 
       # Download and cache dependencies
-      - run: npm install Mobile/Fennec/package.json        
       # run tests!
       - run: cd Mobile/Fennec/
+      - run: npm install
       - run: npm install -g tns
       - run: tns test init --framework mocha
       - run: tns test android
