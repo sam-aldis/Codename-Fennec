@@ -19,7 +19,6 @@ jobs:
     working_directory: ~/
 
     steps:
-      - run: git merge https://github.com/sam-aldis/Codename-Fennec/tree/mobile -m "update master from mobile"
       - checkout
 
       # Download and cache dependencies
