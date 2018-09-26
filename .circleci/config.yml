@@ -27,8 +27,7 @@ jobs:
           - v1-dependencies-{{ checksum "package.json" }}
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
-      - run: cd Mobile/Fennec/
-      - run: npm install
+      - run: npm install Mobile/Fennec/
 
       - save_cache:
           paths:
@@ -36,5 +35,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
         
       # run tests!
+      - run: npm install Mobile/Fennec/ tns
+      - run: tns test init --framework mocha
       - run: tns test android
       - run: tns test ios
