@@ -20,23 +20,4 @@ jobs:
 
     steps:
       - checkout
-  test:  
-    docker:
-      - image: circleci/node
-      - image: circleci/android
-    working_directory: ~/repo/Mobile/Fennec
-
-    steps:
-      - run: npm install
-      - run: npm install tns
-      - run: tns test init --framework mocha
-      - run: tns test android
-      - run: tns test ios
-workflows:
-  version: 2
-  build_and_test:
-    jobs:
-      - build
-      - test:
-        requires:
-          - build
+      - run: test.sh
