@@ -38,7 +38,7 @@
         "karma-nativescript-launcher": "0.4.0",
         "mocha": "5.2.0",
         "nativescript-dev-typescript": "~0.7.0",
-        "typescript": "~2.7.2"
+        "typescript": "~3.0.3"
     },
     "readme": "NativeScript Application"
 }
