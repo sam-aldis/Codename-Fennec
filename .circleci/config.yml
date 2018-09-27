@@ -16,8 +16,27 @@ jobs:
       # mono for desktop......
       #- image: mono:latest
 
-    working_directory: ~/repo
+    working_directory: ~/project
 
     steps:
       - checkout
-      - run: sudo ~/repo/test.sh
+      - run: sudo 
+
+workflows:
+  version: 2
+  nightly:
+    triggers:
+      - schedule:
+        cron: "0 0 * * *"
+        filters:
+          branches:
+            only:
+              - mobile
+          jobs:
+            - build
+  build_and_test:
+    jobs:
+      - build
+      - test:
+        requires:
+          - build
