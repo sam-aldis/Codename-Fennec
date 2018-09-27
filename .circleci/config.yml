@@ -32,8 +32,8 @@ workflows:
           branches:
             only:
               - mobile
-          jobs:
-            - build
+        jobs:
+          - build
   build_and_test:
     jobs:
       - build
