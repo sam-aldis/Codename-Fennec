@@ -44,6 +44,6 @@
 
 
 
-  <sub>this company is part of the UKJP group including https://ukjp-design.com and https://ukjp-labs.com</sub>
+  <sub>This company is part of the UKJP group including https://ukjp-design.com and https://ukjp-labs.com</sub>
 
 
