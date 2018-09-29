@@ -1,12 +1,10 @@
 ## Codename - Fennec
 
-*The future of shopping is comming soon!*
+*The future of shopping is coming soon!*
 
 <pre>Get discounts and onto the beta track before everyone else at the link below
     <a href="https://reg.ukjp-labs.com">Register Interest</a>
 </pre>
-
-
 
 #### What is Fennec?
 
@@ -14,23 +12,23 @@
 
 - Messenger Bot + AI + Shopping client + Advert manager
 
-- Allowing for the sale of products, services and for bookings by small-medium size businesses through a messenger client - The messenger client is dependent on the market (Country)
+- Allowing for the sale of products, services and for bookings by small-medium size businesses through a messenger client - The messenger client depends on the market (Country)
 
-- Restaurants - Dont want to pay huge fee's charged by other services? Let people order direct from you via messenger, even allows for people to customize thier orders - no shrimps on that ice-cream please - all for a fixed monthly rate that your business can afford. Also allows for table booking etc.
+- Restaurants - Dont want to pay huge fees charged by other services? Let people order direct from you via Messenger. It even allows for people to customize their orders - no shrimps on that ice-cream please - and even allows for automated table booking, all for a fixed monthly rate that your business can afford.
 
-- Once you've recieved a message from your clients, allows you to send them relevant advertisements, new pigeon design shoes? Let everyone know. Our AI also learns about your customers and can suggest which advert would suit which customer, and what the best time to send it is.
+- Once you've received a message from your clients it allows you to send them relevant advertisements - new pigeon design shoes? - Let everyone know. Our AI also learns about your customers and can suggest which advert would suit which customer, and what the best time to send it is.
 
-- No hidden fee's, no extra charges. Monthly subscription - build your own plan - Choose what your business needs and thats all you pay for, low cost because we aim to serve the small to medium businesses that cant afford to pay for big company services
+- No hidden fees, no extra charges. Monthly subscription - build your own plan - choose what your business needs and that's all you pay for. Low cost because we aim to serve the small to medium businesses that can't afford to pay for big company services.
 
 - Gain Visibility - People like your page, share info about your company using this new technology.
 
-- Gain New Customers - Word of mouth about how easy it is to order from your company, social profile likes and comments will all help to expand your client base.
+- Gain New customers - Word of mouth about how easy it is to order from your company, social profile likes and comments will all help to expand your client base.
 
-- Beta track - Signup to the beta track and trial new services FREE before everyone else!
+- Beta track - Sign-up to the beta track and trial new services FREE before everyone else!
 
-  <b>sound too good to be true?</b>
+  <b>Sound too good to be true?</b>
 
-  were a small company too, we understand the barriers to getting your business from a couple of customers to a larger audience.
+  We're a small company too. We understand the barriers to getting your business from a couple of customers to a larger audience.
 
 
 
