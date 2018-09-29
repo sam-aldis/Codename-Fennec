@@ -3,8 +3,9 @@
 *The future of shopping is comming soon!*
 
 <pre>Get discounts and onto the beta track before everyone else at the link below
-    <a href="reg.ukjp-labs.com">Register Intrest</a>
+    <a href="https://reg.ukjp-labs.com">Register Intrest</a>
 </pre>
+
 
 #### What is Fennec?
 
@@ -35,8 +36,9 @@
   #### Currently under development please register your interest at the link below
 
 <pre>Get discounts and onto the beta track before everyone else at the link below
-    <a href="reg.ukjp-labs.com">Register Intrest</a>
+    <a href="https://reg.ukjp-labs.com">Register Intrest</a>
 </pre>
+
 
 
 
