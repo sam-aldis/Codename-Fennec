@@ -3,16 +3,16 @@
 *The future of shopping is coming soon!*
 
 <pre>Get discounts and onto the beta track before everyone else at the link below
-    <a href="https://reg.ukjp-labs.com">Register Interest</a>
+    <a href="http://reg.ukjp-labs.com">Register Interest</a>
 </pre>
 
 #### What is Fennec?
 
-- Get what all the big companies are using for a small companies price!
+- Get what all the big companies are using on a small companies' budget!
 
 - Messenger Bot + AI + Shopping client + Advert manager
 
-- Allowing for the sale of products, services and for bookings by small-medium size businesses through a messenger client - The messenger client depends on the market (Country)
+- Allowing for the sale of products, services and for automated reservations by small-medium size businesses through a messenger client - The messenger client depends on the market (Country) - or even your  
 
 - Restaurants - Dont want to pay huge fees charged by other services? Let people order direct from you via Messenger. It even allows for people to customize their orders - no shrimps on that ice-cream please - and even allows for automated table booking, all for a fixed monthly rate that your business can afford.
 
@@ -35,7 +35,7 @@
   #### Currently under development please register your interest at the link below
 
 <pre>Get discounts and onto the beta track before everyone else at the link below
-    <a href="https://reg.ukjp-labs.com">Register Interest</a>
+    <a href="http://reg.ukjp-labs.com">Register Interest</a>
 </pre>
 
 
