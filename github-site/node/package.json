@@ -1,0 +1,21 @@
+{
+  "name": "customsite",
+  "version": "1.0.0",
+  "description": "Custom site",
+  "main": "index.js",
+  "scripts": {
+    "test": "broserify > ../browser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://fennec.ukjp-labs.com"
+  },
+  "keywords": [
+    "jghpoaf"
+  ],
+  "author": "sam aldis",
+  "license": "SEE LICENCE IN {project_dir}/LICENCE.md",
+  "dependencies": {
+    "showdown": "^1.8.6"
+  }
+}

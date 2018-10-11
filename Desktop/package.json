@@ -1,0 +1,21 @@
+{
+  "name": "fennec-desktop",
+  "version": "1.0.0",
+  "description": "Electron Version of fennec",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://githhub.com/sam-aldis"
+  },
+  "keywords": [
+    "fennec"
+  ],
+  "author": "sam aldis",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.4"
+  }
+}

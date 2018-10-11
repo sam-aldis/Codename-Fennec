@@ -1,0 +1,15 @@
+$background_url : "bg.img";
+
+html, body {
+    padding: 0px;
+    margin: 0px;
+}
+
+div.half {
+    width: 50%;
+    height: 100%;
+}
+.hidden_data {
+    visibility: hidden;
+    display: none;
+}
