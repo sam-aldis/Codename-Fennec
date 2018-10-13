@@ -1,21 +1,12 @@
 ## Codename - Fennec
-
-<<<<<<< HEAD
 *The future of shopping is coming soon!*
 
 <pre>Get discounts and onto the beta track before everyone else at the link below
     <a href="http://reg.ukjp-labs.com">Register Interest</a>
 =======
 *The future of shopping is comming soon!*
+What is Fennec?
 
-<pre>Get discounts and onto the beta track before everyone else at the link below
-    <a href="reg.ukjp-labs.com">Register Intrest</a>
->>>>>>> other
-</pre>
-
-#### What is Fennec?
-
-<<<<<<< HEAD
 - Get what all the big companies are using on a small companies' budget!
 
 - Messenger Bot + AI + Shopping client + Advert manager
@@ -59,30 +50,15 @@
   <b>sound too good to be true?</b>
 
   were a small company too, we understand the barriers to getting your business from a couple of customers to a larger audience.
->>>>>>> other
-
 
 
   #### Currently under development please register your interest at the link below
 
 <pre>Get discounts and onto the beta track before everyone else at the link below
-<<<<<<< HEAD
-    <a href="http://reg.ukjp-labs.com">Register Interest</a>
-=======
-    <a href="reg.ukjp-labs.com">Register Intrest</a>
->>>>>>> other
+    <center><a href="reg.ukjp-labs.com">Register Intrest</a></center>
 </pre>
 
 
 
-
-
-<<<<<<< HEAD
-
-
-  <sub>This company is part of the UKJP group including https://ukjp-design.com and https://ukjp-labs.com</sub>
-=======
   <sub>this company is part of the UKJP group including https://ukjp-design.com and https://ukjp-labs.com</sub>
->>>>>>> other
-
 
