@@ -1,4 +1,4 @@
-FROM node
+FROM node:alpine
 
 WORKDIR /app
 
@@ -7,4 +7,4 @@ RUN cd /app/Server/ && npm install
 
 EXPOSE 8080
 
-CMD ["node", "Server/index.js"]
+CMD ["node", "/app/Server/index.js"]
