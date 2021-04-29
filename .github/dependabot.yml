@@ -1,0 +1,20 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/Mobile/Fennec"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  target-branch: mobile
+  ignore:
+  - dependency-name: tns-core-modules
+    versions:
+    - 6.5.24
+    - 6.5.25
+    - 6.5.26
+- package-ecosystem: nuget
+  directory: "/Project/Fennec_Desktop/Fennec"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  target-branch: desktop
